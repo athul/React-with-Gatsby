@@ -2,9 +2,10 @@ import React from "react"
 import { Link } from 'gatsby'
 
 export default () => (<div style={{color:"purple",fontsize:"72px"}}>
-<h1>Yello..Yeloo..Yelooo....</h1>
-<p>Hello world Setta!</p>
 <Link to="/contact/">Contact</Link> 
-<img src="https://source.unsplash.com/random/400x200" alt=""/>
+<Link to="/about">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About</Link>
+<h1>Aloy Uyir.....</h1>
+<p>Hello world Setta!</p>
+<img src="https://qph.fs.quoracdn.net/main-qimg-78ae97e270237bec39aa2f416adde6cc" height="400" width="400" alt=""/>
 </div>
 )
