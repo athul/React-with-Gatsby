@@ -20,7 +20,7 @@ export default()=>(
         <User 
             username="Aloy Annan"
             avatar="https://qph.fs.quoracdn.net/main-qimg-78ae97e270237bec39aa2f416adde6cc"
-            excerpt="i am Aloy .... Mess teste...theetham....."
+            excerpt="i am Aloy.... Mess teste...theetham....."
         />
     </Container>
 )
